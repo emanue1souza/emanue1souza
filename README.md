@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emanue1souza
-- 👀 I’m interested in .Net, C#, SQLServer, Angular js, Web Programming, etc.
-- 🌱 I’m currently, always, learning more about .Net, C#, Angular js.
+- 👀 I’m interested in .Net, C#, SQLServer, Web Programming, etc.
+- 🌱 I’m currently, always, learning more about .Net, C#.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
